@@ -4,9 +4,9 @@
 Research Question: Can a content-based recommendation system utilizing features such as actors, directions, plot, number of seasons, age certification, production country, and genre, along with the popularity and score data from TMDB and IMDb, accurately predict a user’s rating of a movie or a TV Show. 
 
 Data: Hulu, Prime, and Netflix movies/shows scrapped from the streaming guide called "Just Watch". Obtained from Kaggle :
-  Prime: https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies
-  Netlfix: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
-  Hulu: https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies
+  o Prime: https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies
+  o Netlfix: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
+  o Hulu: https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies
   
   
 Method of Analysis: 
