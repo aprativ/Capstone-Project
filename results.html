@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Recommendations</title>
+</head>
+<body>
+    <h1>Top 10 Recommendations for {{ movie }}</h1>
+    <div>
+        <p>Here are our recommended movies:</p>
+        <ul>
+            {% for recommendation in recommendations %}
+            <li>{{ recommendation }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div>
+        <img src="{{ url_for('plot', movie=movie) }}" alt="Recommendation Plot">
+    </div>
+</body>
+</html>
