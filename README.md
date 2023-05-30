@@ -7,6 +7,7 @@
   - Prime: https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies
   + Netlfix: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
   * Hulu: https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies
+  * HBO Max: https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies
   
   
 **Method of Analysis:**
